@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Activite_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">Hello World</string>
+    <string name="no_clients">Actuellement, aucun client est trouvé</string>
+    <string name="menu_insert">Ajout Client</string>
+    <string name="menu_delete">Suppression Client</string>
+    <string name="client_edit_confirm">Confirmer</string>
+    <string name="supprimer_client">Supprimer client</string>
+    <string name="nom">Nom et prénom</string>
+    <string name="adresse">Adresse</string>
+    <string name="modifier_client">Gérer client</string>
+    <string name="annuler">Annuler</string>
+    <string name="todo">TODO</string>
+    <string name="ajouter_client">Ajouter client</string>
+    <string name="e_mail">e-mail</string>
+    <string name="liste_des_clients">lISTE DES CLIENTS:</string>
+    <string name="ef">****</string>
+</resources>
